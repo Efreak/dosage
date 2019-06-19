@@ -67,11 +67,10 @@ For advanced options and features execute `dosage --help`.
 ## Dependencies
 
 [Python](http://www.python.org/): for Python 2.x at least 2.7.0, for Python 3.x
-at least Python 3.3. Dosage requires the following Python modules:
+at least Python 3.4. Dosage requires the following Python modules:
 
 - colorama
 - lxml
-- pbr
 - requests
 - six
 
