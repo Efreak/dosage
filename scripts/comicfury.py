@@ -29,6 +29,7 @@ class ComicFuryUpdater(ComicListUpdater):
         'japanese': 'ja',
         'french': 'fr',
         'portuguese': 'pt',
+        'other': 'other',
     }
 
     # names of comics to exclude
