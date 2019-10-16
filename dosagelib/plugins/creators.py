@@ -77,7 +77,7 @@ class Creators(_ParserScraper):
             # OneBigHappy has a duplicate in GoComics/OneBigHappy
             # PaulSzep has a duplicate in GoComics/PaulSzep
             # Rubes has a duplicate in GoComics/Rubes
-            cls('Rugrats', 'rugrats'),
+            #cls('Rugrats', 'rugrats'),
             # ScaryGary has a duplicate in GoComics/ScaryGary
             cls('Spectickles', 'spectickles'),
             # SpeedBump has a duplicate in GoComics/SpeedBump
