@@ -42,18 +42,17 @@ class Creators(_ParserScraper):
             # do not edit anything below since these entries are generated from
             # scripts/creators.py
             # START AUTOUPDATE
+            cls('AFBranco', 'a.f.-branco'),
             # Agnes has a duplicate in GoComics/Agnes
             # AndyCapp has a duplicate in GoComics/AndyCapp
             cls('AndyMarlette', 'andy-marlette'),
             cls('Archie', 'archie'),
             cls('ArchieSpanish', 'archie-spanish', 'es'),
             # AskShagg has a duplicate in GoComics/AskShagg
-            # BallardStreet has a duplicate in GoComics/BallardStreet
             # BC has a duplicate in GoComics/BC
             # BobGorrell has a duplicate in GoComics/BobGorrell
             # ChipBok has a duplicate in GoComics/ChipBok
             # ChrisBritt has a duplicate in GoComics/ChrisBritt
-            # ChuckleBros has a duplicate in GoComics/ChuckleBros
             # DaddysHome has a duplicate in GoComics/DaddysHome
             # DiamondLil has a duplicate in GoComics/DiamondLil
             # DogEatDoug has a duplicate in GoComics/DogEatDoug
@@ -74,12 +73,13 @@ class Creators(_ParserScraper):
             # MichaelRamirez has a duplicate in GoComics/MichaelRamirez
             # MikeLuckovich has a duplicate in GoComics/MikeLuckovich
             # Momma has a duplicate in GoComics/Momma
-            cls('Mossprints', 'mossprints'),
             # NestHeads has a duplicate in GoComics/NestHeads
             # OneBigHappy has a duplicate in GoComics/OneBigHappy
             # PaulSzep has a duplicate in GoComics/PaulSzep
             # Rubes has a duplicate in GoComics/Rubes
+            cls('Rugrats', 'rugrats'),
             # ScaryGary has a duplicate in GoComics/ScaryGary
+            cls('Spectickles', 'spectickles'),
             # SpeedBump has a duplicate in GoComics/SpeedBump
             # SteveBenson has a duplicate in GoComics/SteveBenson
             # SteveBreen has a duplicate in GoComics/SteveBreen
