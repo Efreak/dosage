@@ -70,5 +70,9 @@ class Tapastic(_ParserScraper):
             cls('TheGodsPack', 'The-Gods-Pack'),
 
             # START AUTOUPDATE
+            cls('2015CountdownToCountdown', 'https://tapas.io/series', 16788),
+            cls('4amShower', 'https://tapas.io/series', 47678),
+            cls('4PanelLife', 'https://tapas.io/series', 6107),
+            cls('4ScoopsOfSpoonz', 'https://tapas.io/series', 68755),
             # END AUTOUPDATE
         )
